@@ -14,3 +14,8 @@
 .catagories img{
     width: 100px;
 }
+.card-footer {
+    padding: .5rem 1rem;
+     background-color: #fff; 
+     border-top: 0
+}
